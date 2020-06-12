@@ -1,0 +1,219 @@
+/* content text in the explanation controller */
+"\n\n- Words must contain at least 4 letters\n- Words must include the center letter\n- Letters can be used more than once\n- the percentage is based on the total amount of letters" = "\n\n- Wörter müssen mindestens 4 Buchstaben enthalten\n- Wörter müssen den mittleren Buchstaben enthalten\n- Buchstaben können mehrmals benutzt werden\n- Die Prozentzahl basiert auf der Gesamtzahl aller Buchstaben der Wörter";
+
+/* content text in the explanation controller */
+"\n\n- Words must contain at least 4 letters\n- Words must include the center letter\n- Letters can be used more than once\n- the percentage is based on the total amount of letters\n- daily games can be played until the day is over and always contain at least one pangram" = "\n\n- Wörter müssen mindestens 4 Buchstaben enthalten\n- Wörter müssen den mittleren Buchstaben enthalten\n- Buchstaben können mehrmals benutzt werden\n- Die Prozentzahl basiert auf der Gesamtzahl aller Buchstaben der Wörter\n- tägliche Spiele können bis zum Ende des Tages gespielt werden und enthalten mindestens ein Pangramm";
+
+/* Subheader text in the explanation view controller */
+"\n\nCreate words using letters from the hive" = "\n\nErstelle Wörter mithilfe der Buchstaben aus dem Bienenstock";
+
+/* Word Amount Text */
+"%@ of ? words found" = "%@ von ? Wörtern gefunden";
+
+/* Word Amount Text if GameOver */
+"%@ of %@ words found" = "%1$@ von %2$@ Wörtern gefunden";
+
+/* Mail Message Body in HTML in the Settings view controller */
+"<p>Here are some things that I liked:<br><br>Here are some things that you can improve:<p>" = "<p>Hier sind einige Dinge, die ich mochte:<br><br>Hier sind ein paar Dinge, die man noch verbessern könnte:<p>";
+
+/* Mail Message Body in HTML in the explanation view controller */
+"<p>I think that you missed some words...<br>You should add the following words:<br><p>" = "<p>Ich glaube, du hast noch ein paar Wörter übersehen...<br>Du solltest noch folgende Wörter hinzufügen:<br><p>";
+
+/* pangram explanation label in the Custom Game View Controller */
+"a word that contains all letters" = "ein Wort, das alle Buchstaben enthält";
+
+/* Already found message in the GameViewController */
+"Already found" = "Bereits gefunden";
+
+/* Amazing Ranking */
+"Amazing" = "Großartig";
+
+/* Are you sure question when game is deleted in Explanation VC
+   Are you sure question when game is solved in Guessed Words VC */
+"Are you sure?" = "Bist du sicher?";
+
+/* Beginner Ranking */
+"Beginner" = "Anfänger";
+
+/* Cancel action the alter controller
+   Cancel deletion in Explanation VC
+   Cancel Solving in Guessed Words VC */
+"Cancel" = "Abbrechen";
+
+/* Center Letter label in the Custom Game View Controller */
+"Center Letter" = "Mittlerer Buchstabe";
+
+/* Contains pangram label in the Custom Game View Controller */
+"Contains pangram" = "Enthält Pangramm";
+
+/* Correct message in the GameViewController */
+"Correct" = "Richtig";
+
+/* Create Custom Game Button in Custom Game View Controller */
+"Create Custom Game" = "Erstelle eigenes Spiel";
+
+/* Custom Game title in the Custom Game View Controller */
+"Custom Game" = "Eigenes Spiel";
+
+/* Custom games section */
+"Custom Games" = "Eigene Spiele";
+
+/* Daily games section */
+"Daily" = "Täglich";
+
+/* day in the pickerView in the custom game view controller */
+"day" = "Tag";
+
+/* days in the pickerView in the custom game view controller */
+"days" = "Tage";
+
+/* German label in the spelling bee collection view game cell */
+"DE" = "DE";
+
+/* Delete game in Explanation VC */
+"Delete" = "Löschen";
+
+/* Delete gam button in the explanation view controller */
+"Delete game" = "Spiel Löschen";
+
+/* Doesn't contain center letter message in the GameViewController */
+"Doesn't contain center letter" = "Enthält nicht mittleren Buchstaben";
+
+/* German label in the spelling bee collection view game cell */
+"EN" = "EN";
+
+/* English language label in the Custom Game View Controller */
+"English" = "Englisch";
+
+/* Double letter error message in the custom game view controller */
+"Every letter can only appear once in the game" = "Jeder Buchstabe darf nur einmal vorkommen";
+
+/* Review failure alert title */
+"Failed to connect to AppStore" = "Verbindung zum App Store fehlgeschlagen";
+
+/* Game over */
+"Game over" = "Spiel vorbei";
+
+/* Gamer Over label in the GameOverVC */
+"Game Over" = "Spiel vorbei";
+
+/* Genius Ranking */
+"Genius" = "Genie";
+
+/* German language label in the Custom Game View Controller */
+"German" = "Deutsch";
+
+/* Good Ranking */
+"Good" = "Gut";
+
+/* Default Ranking text in the GameOverVC */
+"Good job" = "Gut gemacht";
+
+/* Good Start Ranking */
+"Good Start" = "Guter Anfang";
+
+/* Okay Button title in the GameOverVC */
+"Got it" = "Alles klar";
+
+/* Great Ranking */
+"Great" = "Spitze";
+
+/* Guessed words title in the guessed words table view controller */
+"Guessed Words" = "Gefundene Wörter";
+
+/* Twitter App Sharing message */
+"Hey, check out this cool #App #LetterHive" = "Schau dir mal die coole #App an! #LetterHive";
+
+/* App Sharing message */
+"Hey, check out this cool app :)" = "Hey, schau dir mal diese coole App an :)";
+
+/* hour in the pickerView in the custom game view controller */
+"hour" = "Stunde";
+
+/* hours in the pickerView in the custom game view controller */
+"hours" = "Stunden";
+
+/* How to play text in the explanation view controller */
+"How to play" = "Regeln";
+
+/* No e-mail account alter message */
+"It seems like there's no e-mail account setup in your settings" = "Anscheinend ist kein E-Mail Konto in deinen Einstellungen eingespeichert";
+
+/* language label in the Custom Game View Controller */
+"Language" = "Sprache";
+
+/* Mail Subject in the Settings view controller */
+"Letter Hive Feedback" = "Letter Hive Feedback";
+
+/* max Time label in the Custom Game View Controller */
+"max. Time" = "Zeitlimit";
+
+/* Reivew failure alert message */
+"Maybe you should try again later" = "Vielleicht kannst du es später nochmal probieren";
+
+/* minute in the pickerView in the custom game view controller */
+"minute" = "Minute";
+
+/* minutes in the pickerView in the custom game view controller */
+"minutes" = "Minuten";
+
+/* Mail Subject in the explanation view controller */
+"Missing Bee Hive Words" = "Fehlende Letter Hive Wörter";
+
+/* Mail Subject in the explanation view controller */
+"Missing Letter Hive Words" = "Fehlende Letter Hive Wörter";
+
+/* Moving Up Ranking */
+"Moving Up" = "Schön";
+
+/* Nice Ranking */
+"Nice" = "Gut";
+
+/* No e-mail account alter title */
+"No e-mail account" = "Kein E-Mail Konto";
+
+/* empty warning label in the game view controller */
+"No words found yet" = "Noch keine Wörter gefunden";
+
+/* Only enter letters error message in the custom game view controller */
+"Only enter letters" = "Bitte gib nur Buchstaben ein";
+
+/* Other Letters label in the Custom Game View Controller */
+"Other Letters" = "Anderer Buchstaben";
+
+/* Pangram message in the GameViewController */
+"PANGRAM" = "PANGRAMM";
+
+/* Fields missing error message in the custom game view controller */
+"Please fill out all the fields" = "Bitte fülle alle Felder aus";
+
+/* Solid Ranking */
+"Solid" = "Solide";
+
+/* Solve game in Guessed Words VC */
+"Solve" = "Lösen";
+
+/* max Time Description when the user has an infinite amount of time in the Custom Game View Controller */
+"take your time and relax" = "Lass dir Zeit und entspann dich";
+
+/* NYTimes game message in SettingsVC */
+"This game was inspired by the New York Times game Spelling Bee" = "Dieses Spiel ist inspiriert von dem New York Times Spiel Spelling Bee";
+
+/* Today label Dailies CollectionVC */
+"Today" = "Heute";
+
+/* Wrong message in the GameViewController */
+"Wrong" = "Falsch";
+
+/* Yesterday label Dailies CollectionVC */
+"Yesterday" = "Gestern";
+
+/* Less than 4 letters message in the GameViewController */
+"You need at least 4 letters" = "Mindestens 4 Buchstaben";
+
+/* Missing vowels error message in the custom game view controller */
+"You need at least one vowel to play the game" = "Du braucht mindestens ein Vokal um das Spiel zu spielen";
+
+/* Found words label in the GameOverVC */
+"You've found %@ of %@ words" = "Du hast %1$@ von %2$@ Wörtern gefunden";
+
