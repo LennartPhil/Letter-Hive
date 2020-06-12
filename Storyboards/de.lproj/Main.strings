@@ -1,0 +1,177 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Zc-8S-9zQ"; */
+"1Zc-8S-9zQ.text" = "Schild";
+
+/* Class = "UILabel"; text = "[Language]"; ObjectID = "4dc-wu-bM1"; */
+"4dc-wu-bM1.text" = "[Sprache]";
+
+/* Class = "UINavigationItem"; title = "Letter Hive"; ObjectID = "4ta-Pn-Wlt"; */
+"4ta-Pn-Wlt.title" = "Letter Hive";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "7I8-oY-QLr"; */
+"7I8-oY-QLr.title" = "Einstellungen";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "9Ox-83-RbQ"; */
+"9Ox-83-RbQ.normalTitle" = "Eingeben";
+
+/* Class = "UINavigationItem"; title = "Custom game"; ObjectID = "70l-M1-yif"; */
+"70l-M1-yif.title" = "Eigenes Spiel";
+
+/* Class = "UILabel"; text = "Hallo Hallo"; ObjectID = "BBU-VR-7Bc"; */
+"BBU-VR-7Bc.text" = "Hallo Hallo";
+
+/* Class = "UILabel"; text = "Game Over"; ObjectID = "BcC-TF-DjK"; */
+"BcC-TF-DjK.text" = "Spiel vorbei";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BuY-Gh-D36"; */
+"BuY-Gh-D36.normalTitle" = "Knopf";
+
+/* Class = "UILabel"; text = "a word that contains all letters"; ObjectID = "bXv-nk-ggG"; */
+"bXv-nk-ggG.text" = "ein Wort, das alle Buchstaben enthält";
+
+/* Class = "UILabel"; text = "App Version"; ObjectID = "CFt-0V-YLX"; */
+"CFt-0V-YLX.text" = "App Version";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cly-Ru-s4z"; */
+"cly-Ru-s4z.normalTitle" = "Knopf";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "cw2-qQ-MCN"; */
+"cw2-qQ-MCN.text" = "Sprache";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "df6-ZL-S4a"; */
+"df6-ZL-S4a.normalTitle" = "Knopf";
+
+/* Class = "UILabel"; text = "Contains Pangram"; ObjectID = "eZT-51-u9p"; */
+"eZT-51-u9p.text" = "Enthält Pangram";
+
+/* Class = "UILabel"; text = "Nice"; ObjectID = "Fsp-bl-jWu"; */
+"Fsp-bl-jWu.text" = "Schön";
+
+/* Class = "UILabel"; text = "German"; ObjectID = "H91-W3-szw"; */
+"H91-W3-szw.text" = "Deutsch";
+
+/* Class = "UILabel"; text = "This game was inspired by the New York Times game Spelling Bee"; ObjectID = "hhA-4p-6ct"; */
+"hhA-4p-6ct.text" = "Dieses Spiel ist inspiriert von dem New York Times Spiel Spelling Bee";
+
+/* Class = "UITextField"; placeholder = "B C D E F G"; ObjectID = "hJs-7t-NKF"; */
+"hJs-7t-NKF.placeholder" = "B C D E F G";
+
+/* Class = "UITextField"; placeholder = "A"; ObjectID = "idx-rC-QQo"; */
+"idx-rC-QQo.placeholder" = "A";
+
+/* Class = "UILabel"; text = "[Ranking]!"; ObjectID = "IEq-Lt-5cd"; */
+"IEq-Lt-5cd.text" = "[Rang]!";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "j2G-MN-wHy"; */
+"j2G-MN-wHy.text" = "Nachricht";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JEX-7k-zNS"; */
+"JEX-7k-zNS.normalTitle" = "Knopf";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jTh-8W-Peg"; */
+"jTh-8W-Peg.text" = "Titel";
+
+/* Class = "UILabel"; text = "Default Language"; ObjectID = "Jul-cc-Av5"; */
+"Jul-cc-Av5.text" = "Standard Sprache";
+
+/* Class = "UILabel"; text = "Center Letter"; ObjectID = "Jzy-Rl-L3A"; */
+"Jzy-Rl-L3A.text" = "Innerer Buchstabe";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "kof-Jh-6Hu"; */
+"kof-Jh-6Hu.normalTitle" = "Schreib uns";
+
+/* Class = "UILabel"; text = "Share with friends"; ObjectID = "l9D-ro-K5q"; */
+"l9D-ro-K5q.text" = "Mit Freunden teilen";
+
+/* Class = "UILabel"; text = "You've found # words"; ObjectID = "LCH-s3-AjH"; */
+"LCH-s3-AjH.text" = "Du hast # Wörter gefunden";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lDb-C6-CQO"; */
+"lDb-C6-CQO.normalTitle" = "Knopf";
+
+/* Class = "UILabel"; text = "Think we missed a word?"; ObjectID = "M7u-RJ-KPK"; */
+"M7u-RJ-KPK.text" = "Haben wir ein Wort vergessen?";
+
+/* Class = "UILabel"; text = "DE"; ObjectID = "MKD-0y-NS2"; */
+"MKD-0y-NS2.text" = "DE";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "MPc-WV-J2t"; */
+"MPc-WV-J2t.text" = "Sprache";
+
+/* Class = "UILabel"; text = "[Language]"; ObjectID = "Mvd-fI-800"; */
+"Mvd-fI-800.text" = "[Sprache]";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "n0E-pd-ZvP"; */
+"n0E-pd-ZvP.normalTitle" = "Knopf";
+
+/* Class = "UITextView"; text = "lorem ipsum"; ObjectID = "N4Q-e5-Nzd"; */
+"N4Q-e5-Nzd.text" = "lorem ipsum";
+
+/* Class = "UILabel"; text = "[Timer]"; ObjectID = "n7p-ul-ZYq"; */
+"n7p-ul-ZYq.text" = "[Timer]";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "Nap-e6-khT"; */
+"Nap-e6-khT.normalTitle" = "Löschen";
+
+/* Class = "UILabel"; text = "[Amount]"; ObjectID = "NE7-HY-Ae9"; */
+"NE7-HY-Ae9.text" = "[Anzahl]";
+
+/* Class = "UILabel"; text = "Leave a review"; ObjectID = "nNO-Wi-rbg"; */
+"nNO-Wi-rbg.text" = "Bewertung abgeben";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NZt-tQ-7Hx"; */
+"NZt-tQ-7Hx.normalTitle" = "Knopf";
+
+/* Class = "UIButton"; normalTitle = "Create Custom Game"; ObjectID = "p6r-sM-e9d"; */
+"p6r-sM-e9d.normalTitle" = "Erstelle ein eigenes Spiel";
+
+/* Class = "UILabel"; text = "take your time and relax"; ObjectID = "PmR-VA-Dcu"; */
+"PmR-VA-Dcu.text" = "Lass dir Zeit und entspanne dich";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pUa-Kc-HIw"; */
+"pUa-Kc-HIw.text" = "Schild";
+
+/* Class = "UILabel"; text = "[App Version]"; ObjectID = "PxH-Jy-x75"; */
+"PxH-Jy-x75.text" = "[App Version]";
+
+/* Class = "UILabel"; text = "Give us some feedback"; ObjectID = "QBW-LU-ADu"; */
+"QBW-LU-ADu.text" = "Schreibt uns euer Feedback";
+
+/* Class = "UILabel"; text = "max. Time"; ObjectID = "R5e-hT-sOP"; */
+"R5e-hT-sOP.text" = "max. Zeit";
+
+/* Class = "UILabel"; text = "69%"; ObjectID = "rCe-Q9-uDf"; */
+"rCe-Q9-uDf.text" = "69%";
+
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "rls-Y2-RgI"; */
+"rls-Y2-RgI.normalTitle" = "Alles klar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SON-L1-ZlB"; */
+"SON-L1-ZlB.text" = "Schild";
+
+/* Class = "UILabel"; text = "EN"; ObjectID = "VYl-L2-rY6"; */
+"VYl-L2-rY6.text" = "EN";
+
+/* Class = "UILabel"; text = "Other Letters"; ObjectID = "wDB-kO-K9k"; */
+"wDB-kO-K9k.text" = "Andere Buchstaben";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "WIa-NS-5GK"; */
+"WIa-NS-5GK.text" = "Englisch";
+
+/* Class = "UILabel"; text = "Custom Game"; ObjectID = "ws7-bA-r6M"; */
+"ws7-bA-r6M.text" = "Eigenes Spiel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wzg-q1-MWL"; */
+"wzg-q1-MWL.normalTitle" = "Knopf";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yBK-5X-Dtu"; */
+"yBK-5X-Dtu.normalTitle" = "Knopf";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ySG-Fz-dYJ"; */
+"ySG-Fz-dYJ.text" = "Schild";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ysj-fS-jer"; */
+"Ysj-fS-jer.text" = "Schild";
+
+/* Class = "UILabel"; text = "Found Words"; ObjectID = "yzd-g2-Otm"; */
+"yzd-g2-Otm.text" = "Gefundene Wörter";
+
